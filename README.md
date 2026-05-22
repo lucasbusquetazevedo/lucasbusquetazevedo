@@ -45,8 +45,6 @@ Arquitetura em camadas, JWT, Swagger/OpenAPI e integração com PostgreSQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
 
-> *"Transformando dados em decisões e código em soluções."*
-
 ---
 
 ## 🇺🇸 English
@@ -88,4 +86,3 @@ Layered architecture, JWT, Swagger/OpenAPI and PostgreSQL integration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
 
-> *"Turning data into decisions and code into solutions."*
