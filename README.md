@@ -49,7 +49,7 @@ Arquitetura em camadas, JWT, Swagger/OpenAPI e integração com PostgreSQL.
 
 ## 🇺🇸 English
 
-# Hi, I'm Lucas Busquet 👋
+# Hi, I'm Lucas Busquet 
 
 Back-End Developer and Data Analyst in training, with experience in Python, SQL, Power BI and Node.js.
 Economics undergraduate at UFF, focused on data analysis, process automation and API development.
