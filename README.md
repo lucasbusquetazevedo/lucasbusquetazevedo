@@ -10,8 +10,11 @@
 
 # Olá, sou Lucas Busquet 
 
-Desenvolvedor Back-End e Analista de Dados em formação, com experiência em Python, SQL, Power BI e Node.js.
-Graduando em Economia pela UFF, com foco em análise de dados, automação de processos e desenvolvimento de APIs.
+Analista de Dados e Desenvolvedor Back-End com experiência em análise de dados, business intelligence e desenvolvimento de APIs.
+
+Atualmente atuo no desenvolvimento de soluções back-end para uma plataforma de recrutamento inteligente e possuo experiência profissional em análise comercial, criação de dashboards e suporte à tomada de decisão baseada em dados.
+
+Graduando em Economia pela Universidade Federal Fluminense (UFF), combinando conhecimento analítico e técnico para transformar dados em informações úteis para negócios.
 
 ---
 
@@ -30,14 +33,26 @@ Graduando em Economia pela UFF, com foco em análise de dados, automação de pr
 ### Projetos em destaque
 
 #### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
-Análise de dados de combates simulados de D&D 5e com Python, SQL e Power BI.
-Responde perguntas de negócio reais sobre eficiência de classes nos níveis 1–10.
+Projeto de análise de dados utilizando Python, SQL e Power BI para avaliar desempenho de classes em combates simulados dos níveis 1–10. de D&D 5e.
 `Python` `SQL` `SQLite` `Pandas` `Power BI`
 
+Principais atividades:
+Coleta e tratamento de dados
+Consultas SQL para análise exploratória
+Criação de dashboards e visualizações
+Geração de insights baseados em métricas de desempenho
+
 #### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
-API REST completa para plataforma de recrutamento inteligente com matching candidato–vaga.
-Arquitetura em camadas, JWT, Swagger/OpenAPI e integração com PostgreSQL.
+API REST para uma plataforma de recrutamento inteligente com sistema de correspondência entre candidatos e vagas.
 `Python` `Flask` `SQLAlchemy` `PostgreSQL` `JWT`
+
+Principais atividades:
+Desenvolvimento de APIs RESTful
+Modelagem de banco de dados PostgreSQL
+Autenticação JWT
+Documentação com Swagger/OpenAPI
+Arquitetura em camadas, JWT, Swagger/OpenAPI e integração com PostgreSQL.
+
 
 ---
 
@@ -71,15 +86,27 @@ Economics undergraduate at UFF, focused on data analysis, process automation and
 ### Featured Projects
 
 #### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
-Data analysis of simulated D&D 5e combats using Python, SQL and Power BI.
-Answers real business questions about class efficiency at levels 1–10.
+Data analytics project using Python, SQL, and Power BI to analyze class performance in simulated D&D 5e combat scenarios across levels 1–10.
 `Python` `SQL` `SQLite` `Pandas` `Power BI`
+
+Key activities:
+• Data collection, cleaning, and transformation
+• SQL-based exploratory data analysis (EDA)
+• Dashboard development and data visualization in Power BI
+• Performance analysis and comparison of character classes
+• Generation of insights from combat simulation data
 
 #### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
 Full REST API for an intelligent recruitment platform with candidate–job matching.
-Layered architecture, JWT, Swagger/OpenAPI and PostgreSQL integration.
+Layered architecture, JWT, Swagger/OpenAPI and PostgreSQL integration. 
 `Python` `Flask` `SQLAlchemy` `PostgreSQL` `JWT`
 
+Key activities:
+• Data extraction, cleaning, and preparation
+• Exploratory Data Analysis (EDA) using SQL and Python
+• Development of interactive dashboards in Power BI
+• Comparative analysis of class effectiveness and combat performance
+• Data-driven insight generation and result visualization
 ---
 
 ### Contact
