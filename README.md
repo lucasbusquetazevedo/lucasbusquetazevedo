@@ -27,13 +27,16 @@ Graduando em Economia pela Universidade Federal Fluminense (UFF), combinando con
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white)
 
 ---
 
 ### Projetos em destaque
 
 #### [isp-market-intel](https://github.com/lucasbusquetazevedo/isp-market-intel)
-Ferramenta de análise de mercado para ISPs que utiliza imagens de satélite e visão computacional com IA para estimar o Total Addressable Market (TAM) por bairro — sem depender de dados desatualizados ou pagos.
+Ferramenta de análise de mercado para ISPs que utiliza imagens de satélite e visão computacional com IA para estimar o Total Addressable Market (TAM) por bairro — sem depender de dados desatualizados ou pagos.   
 `Python` `Gemini API` `GeoPandas` `Streamlit` `IBGE` `ESRI`
 
 Principais atividades:
@@ -91,6 +94,9 @@ Economics undergraduate at Fluminense Federal University (UFF), combining analyt
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white)
 
 ---
 
