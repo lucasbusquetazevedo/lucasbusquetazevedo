@@ -128,6 +128,7 @@ Key activities:
 • Development of interactive dashboards in Power BI
 • Comparative analysis of class effectiveness and combat performance
 • Data-driven insight generation and result visualization
+
 ---
 
 ### Contact
