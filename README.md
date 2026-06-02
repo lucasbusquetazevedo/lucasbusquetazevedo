@@ -32,6 +32,16 @@ Graduando em Economia pela Universidade Federal Fluminense (UFF), combinando con
 
 ### Projetos em destaque
 
+#### [isp-market-intel](https://github.com/lucasbusquetazevedo/isp-market-intel)
+Ferramenta de análise de mercado para ISPs que utiliza imagens de satélite e visão computacional com IA para estimar o Total Addressable Market (TAM) por bairro — sem depender de dados desatualizados ou pagos.
+`Python` `Gemini API` `GeoPandas` `Streamlit` `IBGE` `ESRI`
+
+Principais atividades:
+Pipeline de visão computacional com satellite imagery
+Integração com Google Gemini 2.5 para contagem de residências
+Geoprocessamento com dados oficiais do IBGE Censo 2022
+Dashboard interativo com mapa, métricas e market share em tempo real
+
 #### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
 Projeto de análise de dados utilizando Python, SQL e Power BI para avaliar desempenho de classes em combates simulados dos níveis 1–10. de D&D 5e.
 `Python` `SQL` `SQLite` `Pandas` `Power BI`
@@ -85,6 +95,16 @@ Economics undergraduate at Fluminense Federal University (UFF), combining analyt
 ---
 
 ### Featured Projects
+
+#### [isp-market-intel](https://github.com/lucasbusquetazevedo/isp-market-intel)
+Market analysis tool for ISPs that uses satellite imagery and AI-powered computer vision to estimate the Total Addressable Market (TAM) by neighborhood — without relying on outdated or paid data sources.
+`Python` `Gemini API` `GeoPandas` `Streamlit` `IBGE` `ESRI`
+
+Key activities:
+Computer vision pipeline with satellite imagery
+Google Gemini 2.5 integration for residential unit counting
+Geospatial processing with official IBGE 2022 Census data
+Interactive dashboard with map, metrics and real-time market share
 
 #### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
 Data analytics project using Python, SQL, and Power BI to analyze class performance in simulated D&D 5e combat scenarios across levels 1–10.
