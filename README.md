@@ -30,6 +30,8 @@ Graduando em Economia pela Universidade Federal Fluminense (UFF), combinando con
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -40,31 +42,40 @@ Ferramenta de análise de mercado para ISPs que utiliza imagens de satélite e v
 `Python` `Gemini API` `GeoPandas` `Streamlit` `IBGE` `ESRI`
 
 Principais atividades:
-Pipeline de visão computacional com satellite imagery
-Integração com Google Gemini 2.5 para contagem de residências
-Geoprocessamento com dados oficiais do IBGE Censo 2022
-Dashboard interativo com mapa, métricas e market share em tempo real
+• Pipeline de visão computacional com satellite imagery
+• Integração com Google Gemini 2.5 para contagem de residências
+• Geoprocessamento com dados oficiais do IBGE Censo 2022
+• Dashboard interativo com mapa, métricas e market share em tempo real
 
 #### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
 Projeto de análise de dados utilizando Python, SQL e Power BI para avaliar desempenho de classes em combates simulados dos níveis 1–10. de D&D 5e.
 `Python` `SQL` `SQLite` `Pandas` `Power BI`
 
 Principais atividades:
-Coleta e tratamento de dados
-Consultas SQL para análise exploratória
-Criação de dashboards e visualizações
-Geração de insights baseados em métricas de desempenho
+• Coleta e tratamento de dados
+• Consultas SQL para análise exploratória
+• Criação de dashboards e visualizações
+• Geração de insights baseados em métricas de desempenho
+
+#### [deteccao-anomalias-transacoes](https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes)
+Detecção de fraudes em transações de cartão de crédito usando Isolation Forest (Machine Learning não supervisionado), com foco em métricas de avaliação adequadas a dados extremamente desbalanceados (apenas 0,17% de fraudes). `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
+
+Principais atividades:
+• Análise exploratória de dados extremamente desbalanceados
+• Padronização de variáveis com StandardScaler
+• Treinamento de modelo de detecção de anomalias (Isolation Forest) 
+• Avaliação com Recall e Precision em vez de acurácia tradicional
 
 #### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
 API REST para uma plataforma de recrutamento inteligente com sistema de correspondência entre candidatos e vagas.
 `Python` `Flask` `SQLAlchemy` `PostgreSQL` `JWT`
 
 Principais atividades:
-Desenvolvimento de APIs RESTful
-Modelagem de banco de dados PostgreSQL
-Autenticação JWT
-Documentação com Swagger/OpenAPI
-Arquitetura em camadas, JWT, Swagger/OpenAPI e integração com PostgreSQL.
+• Desenvolvimento de APIs RESTful
+• Modelagem de banco de dados PostgreSQL
+• Autenticação JWT
+• Documentação com Swagger/OpenAPI
+• Arquitetura em camadas, JWT, Swagger/OpenAPI e integração com PostgreSQL.
 
 
 ---
@@ -97,6 +108,8 @@ Economics undergraduate at Fluminense Federal University (UFF), combining analyt
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -122,6 +135,16 @@ Key activities:
 • Dashboard development and data visualization in Power BI
 • Performance analysis and comparison of character classes
 • Generation of insights from combat simulation data
+
+#### [deteccao-anomalias-transacoes](https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes)
+Credit card fraud detection using Isolation Forest (unsupervised Machine Learning), focused on evaluation metrics suited to extremely imbalanced data (only 0.17% fraud cases). 
+`Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
+
+Key activities: 
+• Exploratory analysis of extremely imbalanced data
+• Feature scaling with StandardScaler
+• Anomaly detection model training (Isolation Forest)
+• Evaluation using Recall and Precision instead of traditional accuracy
 
 #### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
 Full REST API for an intelligent recruitment platform with candidate–job matching.
