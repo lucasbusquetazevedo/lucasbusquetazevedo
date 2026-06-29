@@ -38,7 +38,7 @@ Graduando em Economia pela Universidade Federal Fluminense (UFF), combinando con
 ### Projetos em destaque
 
 #### [isp-market-intel](https://github.com/lucasbusquetazevedo/isp-market-intel)
-Ferramenta de análise de mercado para ISPs que utiliza imagens de satélite e visão computacional com IA para estimar o Total Addressable Market (TAM) por bairro — sem depender de dados desatualizados ou pagos.   
+Projeto de análise de mercado para ISPs que utiliza imagens de satélite e visão computacional com IA para estimar o Total Addressable Market (TAM) por bairro — sem depender de dados desatualizados ou pagos.  
 `Python` `Gemini API` `GeoPandas` `Streamlit` `IBGE` `ESRI`
 
 Principais atividades:
@@ -48,7 +48,7 @@ Principais atividades:
 • Dashboard interativo com mapa, métricas e market share em tempo real
 
 #### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
-Projeto de análise de dados utilizando Python, SQL e Power BI para avaliar desempenho de classes em combates simulados dos níveis 1–10. de D&D 5e.
+Projeto de análise de dados utilizando Python, SQL e Power BI para avaliar desempenho de classes em combates simulados dos níveis 1–10 de D&D 5e.
 `Python` `SQL` `SQLite` `Pandas` `Power BI`
 
 Principais atividades:
@@ -58,7 +58,7 @@ Principais atividades:
 • Geração de insights baseados em métricas de desempenho
 
 #### [deteccao-anomalias-transacoes](https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes)
-Detecção de fraudes em transações de cartão de crédito usando Isolation Forest (Machine Learning não supervisionado), com foco em métricas de avaliação adequadas a dados extremamente desbalanceados (apenas 0,17% de fraudes). `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
+Projeto de detecção de fraudes em transações de cartão de crédito usando Isolation Forest (Machine Learning não supervisionado), com foco em métricas de avaliação adequadas a dados extremamente desbalanceados (apenas 0,17% de fraudes). `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
 
 Principais atividades:
 • Análise exploratória de dados extremamente desbalanceados
@@ -67,7 +67,7 @@ Principais atividades:
 • Avaliação com Recall e Precision em vez de acurácia tradicional
 
 #### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
-API REST para uma plataforma de recrutamento inteligente com sistema de correspondência entre candidatos e vagas.
+Projeto de API REST para uma plataforma de recrutamento inteligente com sistema de correspondência entre candidatos e vagas.
 `Python` `Flask` `SQLAlchemy` `PostgreSQL` `JWT`
 
 Principais atividades:
@@ -116,7 +116,7 @@ Economics undergraduate at Fluminense Federal University (UFF), combining analyt
 ### Featured Projects
 
 #### [isp-market-intel](https://github.com/lucasbusquetazevedo/isp-market-intel)
-Market analysis tool for ISPs that uses satellite imagery and AI-powered computer vision to estimate the Total Addressable Market (TAM) by neighborhood — without relying on outdated or paid data sources.
+Market analysis project for ISPs that leverages satellite imagery and AI-powered computer vision to estimate the Total Addressable Market (TAM) at the neighborhood level, eliminating reliance on outdated or paid datasets.
 `Python` `Gemini API` `GeoPandas` `Streamlit` `IBGE` `ESRI`
 
 Key activities:
@@ -126,7 +126,7 @@ Geospatial processing with official IBGE 2022 Census data
 Interactive dashboard with map, metrics and real-time market share
 
 #### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
-Data analytics project using Python, SQL, and Power BI to analyze class performance in simulated D&D 5e combat scenarios across levels 1–10.
+Data analysis project using Python, SQL, and Power BI to evaluate the performance of character classes in simulated Dungeons & Dragons 5th Edition battles across levels 1–10.
 `Python` `SQL` `SQLite` `Pandas` `Power BI`
 
 Key activities:
@@ -137,7 +137,7 @@ Key activities:
 • Generation of insights from combat simulation data
 
 #### [deteccao-anomalias-transacoes](https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes)
-Credit card fraud detection using Isolation Forest (unsupervised Machine Learning), focused on evaluation metrics suited to extremely imbalanced data (only 0.17% fraud cases). 
+Credit card fraud detection project using the Isolation Forest unsupervised machine learning algorithm, with a focus on evaluation metrics suitable for highly imbalanced datasets (only 0.17% fraudulent transactions).
 `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
 
 Key activities: 
@@ -147,7 +147,7 @@ Key activities:
 • Evaluation using Recall and Precision instead of traditional accuracy
 
 #### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
-Full REST API for an intelligent recruitment platform with candidate–job matching.
+REST API project for an intelligent recruitment platform featuring a candidate–job matching system.
 Layered architecture, JWT, Swagger/OpenAPI and PostgreSQL integration. 
 `Python` `Flask` `SQLAlchemy` `PostgreSQL` `JWT`
 
