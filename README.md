@@ -61,7 +61,7 @@ Principais atividades:
 • Geração de insights baseados em métricas de desempenho
 
 #### [g1-pulse-analytics](https://github.com/lucasbusquetazevedo/g1-pulse-analytics)
-Pipeline analítico de conteúdo editorial construído sobre os feeds RSS públicos do G1, simulando o ciclo de dados de um produto de notícias digital — da coleta automatizada ao dashboard executivo.<br>
+Pipeline analítico de conteúdo editorial construído sobre os feeds RSS públicos do G1, simulando o ciclo de dados de um produto de notícias digital, da coleta automatizada ao dashboard executivo.<br>
 `Python` `BigQuery` `Looker Studio` `GitHub Actions` `SQL` `statsmodels`
 
 Principais atividades:
@@ -161,7 +161,7 @@ Key activities:
 • Evaluation using Recall and Precision instead of traditional accuracy
 
 #### [g1-pulse-analytics](https://github.com/lucasbusquetazevedo/g1-pulse-analytics)
-Analytical pipeline built on G1's public RSS feeds, simulating the full data cycle of a digital news product — from automated collection to an executive dashboard.<br>
+Analytical pipeline built on G1's public RSS feeds, simulating the full data cycle of a digital news product, from automated collection to an executive dashboard.<br>
 `Python` `BigQuery` `Looker Studio` `GitHub Actions` `SQL` `statsmodels`
 
 Key activities:
