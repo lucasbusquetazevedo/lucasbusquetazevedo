@@ -25,6 +25,8 @@ Graduando em Economia pela Universidade Federal Fluminense (UFF), combinando con
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
@@ -32,6 +34,7 @@ Graduando em Economia pela Universidade Federal Fluminense (UFF), combinando con
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
 
 ---
 
@@ -56,6 +59,16 @@ Principais atividades:
 • Consultas SQL para análise exploratória
 • Criação de dashboards e visualizações
 • Geração de insights baseados em métricas de desempenho
+
+#### [g1-pulse-analytics](https://github.com/lucasbusquetazevedo/g1-pulse-analytics)
+Pipeline analítico de conteúdo editorial construído sobre os feeds RSS públicos do G1, simulando o ciclo de dados de um produto de notícias digital — da coleta automatizada ao dashboard executivo.<br>
+`Python` `BigQuery` `Looker Studio` `GitHub Actions` `SQL` `statsmodels`
+
+Principais atividades:
+• Coleta automatizada de metadados editoriais via RSS com GitHub Actions (3x/dia)
+• Ingestão e modelagem no BigQuery com SQL avançado (window functions, RANK, CTEs)
+• Geração de camada sintética de engajamento calibrada com padrões do setor de mídia
+• Teste A/B de manchete com z-test (p < 0,001) e dashboard executivo no Looker Studio
 
 #### [deteccao-anomalias-transacoes](https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes)
 Projeto de detecção de fraudes em transações de cartão de crédito usando Isolation Forest (Machine Learning não supervisionado), com foco em métricas de avaliação adequadas a dados extremamente desbalanceados (apenas 0,17% de fraudes).<br>
@@ -146,6 +159,16 @@ Key activities:
 • Feature scaling with StandardScaler
 • Anomaly detection model training (Isolation Forest)
 • Evaluation using Recall and Precision instead of traditional accuracy
+
+#### [g1-pulse-analytics](https://github.com/lucasbusquetazevedo/g1-pulse-analytics)
+Analytical pipeline built on G1's public RSS feeds, simulating the full data cycle of a digital news product — from automated collection to an executive dashboard.<br>
+`Python` `BigQuery` `Looker Studio` `GitHub Actions` `SQL` `statsmodels`
+
+Key activities:
+• Automated editorial metadata collection via RSS using GitHub Actions (3x/day)
+• BigQuery ingestion and modeling with advanced SQL (window functions, RANK, CTEs)
+• Synthetic engagement layer generated with sector-calibrated statistical model
+• A/B headline test with z-test (p < 0.001) and executive dashboard in Looker Studio
 
 #### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
 REST API project for an intelligent recruitment platform featuring a candidate–job matching system. Layered architecture, JWT, Swagger/OpenAPI and PostgreSQL integration.<br>
