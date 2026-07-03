@@ -43,7 +43,7 @@ Transforms geospatial data into actionable insights for telecom market expansion
 ## G1 Pulse Analytics
 
 <p align="center">
-  <img src="assets/g1-pulse.png" width="900">
+  <img src="https://raw.githubusercontent.com/lucasbusquetazevedo/g1-pulse-analytics/main/assets/g1.png" width="900" alt="G1 Pulse Analytics Dashboard" />
 </p>
 
 End-to-end analytics pipeline simulating a digital newsroom workflow using automated data collection, BigQuery modeling and executive dashboards.
