@@ -1,189 +1,299 @@
 <div align="center">
 
-[🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
+# Lucas Busquet
+
+### Data Analyst • Business Intelligence • Python Back-end Developer
+
+Building analytical solutions with **Python, SQL, Machine Learning, Business Intelligence and REST APIs.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-busquet)
+[![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasbusquetazevedo)
 
 </div>
 
 ---
 
-## 🇧🇷 Português
+# About Me
 
-# Olá, sou Lucas Busquet 
+I'm a **Data Analyst** and **Python Back-end Developer** passionate about building solutions that combine analytics, automation and software development.
 
-Analista de Dados e Desenvolvedor Back-End com experiência em análise de dados, business intelligence e desenvolvimento de APIs.
+I have professional experience in **commercial data analysis**, **Business Intelligence**, **dashboard development** and **REST API development**, helping transform raw data into actionable insights.
 
-Atualmente atuo no desenvolvimento de soluções back-end para uma plataforma de recrutamento inteligente e possuo experiência profissional em análise comercial, criação de dashboards e suporte à tomada de decisão baseada em dados.
+Currently, I contribute to the development of a recruitment platform while pursuing a Bachelor's Degree in **Economics** at **Universidade Federal Fluminense (UFF)**.
 
-Graduando em Economia pela Universidade Federal Fluminense (UFF), combinando conhecimento analítico e técnico para transformar dados em informações úteis para negócios.
+My main interests include:
 
----
-
-### Stack principal
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
+- Business Intelligence
+- Machine Learning
+- Geospatial Analytics
+- Data Engineering
+- Backend Development
+- Data Visualization
 
 ---
 
-### Projetos em destaque
+# Tech Stack
 
-#### [isp-market-intel](https://github.com/lucasbusquetazevedo/isp-market-intel)
-Projeto de análise de mercado para ISPs que utiliza imagens de satélite e visão computacional com IA para estimar o Total Addressable Market (TAM) por bairro — sem depender de dados desatualizados ou pagos.<br>
-`Python` `Gemini API` `GeoPandas` `Streamlit` `IBGE` `ESRI`
+## Languages
 
-Principais atividades:
-• Pipeline de visão computacional com satellite imagery
-• Integração com Google Gemini 2.5 para contagem de residências
-• Geoprocessamento com dados oficiais do IBGE Censo 2022
-• Dashboard interativo com mapa, métricas e market share em tempo real
-
-#### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
-Projeto de análise de dados utilizando Python, SQL e Power BI para avaliar desempenho de classes em combates simulados dos níveis 1–10 de D&D 5e.<br>
-`Python` `SQL` `SQLite` `Pandas` `Power BI`
-
-Principais atividades:
-• Coleta e tratamento de dados
-• Consultas SQL para análise exploratória
-• Criação de dashboards e visualizações
-• Geração de insights baseados em métricas de desempenho
-
-#### [g1-pulse-analytics](https://github.com/lucasbusquetazevedo/g1-pulse-analytics)
-Pipeline analítico de conteúdo editorial construído sobre os feeds RSS públicos do G1, simulando o ciclo de dados de um produto de notícias digital, da coleta automatizada ao dashboard executivo.<br>
-`Python` `BigQuery` `Looker Studio` `GitHub Actions` `SQL` `statsmodels`
-
-Principais atividades:
-• Coleta automatizada de metadados editoriais via RSS com GitHub Actions (3x/dia)
-• Ingestão e modelagem no BigQuery com SQL avançado (window functions, RANK, CTEs)
-• Geração de camada sintética de engajamento calibrada com padrões do setor de mídia
-• Teste A/B de manchete com z-test (p < 0,001) e dashboard executivo no Looker Studio
-
-#### [deteccao-anomalias-transacoes](https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes)
-Projeto de detecção de fraudes em transações de cartão de crédito usando Isolation Forest (Machine Learning não supervisionado), com foco em métricas de avaliação adequadas a dados extremamente desbalanceados (apenas 0,17% de fraudes).<br>
-`Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
-
-Principais atividades:
-• Análise exploratória de dados extremamente desbalanceados
-• Padronização de variáveis com StandardScaler
-• Treinamento de modelo de detecção de anomalias (Isolation Forest) 
-• Avaliação com Recall e Precision em vez de acurácia tradicional
-
-#### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
-Projeto de API REST para uma plataforma de recrutamento inteligente com sistema de correspondência entre candidatos e vagas.<br>
-`Python` `Flask` `SQLAlchemy` `PostgreSQL` `JWT`
-
-Principais atividades:
-• Desenvolvimento de APIs RESTful
-• Modelagem de banco de dados PostgreSQL
-• Autenticação JWT
-• Documentação com Swagger/OpenAPI
-• Arquitetura em camadas, JWT, Swagger/OpenAPI e integração com PostgreSQL.
-
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+</div>
 
 ---
 
-### Contato
+## Data & Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-busquet)
-
----
-
-## 🇺🇸 English
-
-# Hi, I'm Lucas Busquet 
-
-I currently contribute to the development of back-end solutions for an intelligent recruitment platform and have professional experience in commercial data analysis, dashboard creation, and data-driven decision-making.
-
-Economics undergraduate at Fluminense Federal University (UFF), combining analytical and technical skills to transform data into meaningful business insights.
+<div>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white">
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+</div>
 
 ---
 
-### Main Stack
+## Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+</div>
 
 ---
 
-### Featured Projects
+## Tools
 
-#### [isp-market-intel](https://github.com/lucasbusquetazevedo/isp-market-intel)
-Market analysis project for ISPs that leverages satellite imagery and AI-powered computer vision to estimate the Total Addressable Market (TAM) at the neighborhood level, eliminating reliance on outdated or paid datasets.<br>
-`Python` `Gemini API` `GeoPandas` `Streamlit` `IBGE` `ESRI`
-
-Key activities:
-Computer vision pipeline with satellite imagery
-Google Gemini 2.5 integration for residential unit counting
-Geospatial processing with official IBGE 2022 Census data
-Interactive dashboard with map, metrics and real-time market share
-
-#### [DnD-RPG-Analytics](https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics)
-Data analysis project using Python, SQL, and Power BI to evaluate the performance of character classes in simulated Dungeons & Dragons 5th Edition battles across levels 1–10.<br>
-`Python` `SQL` `SQLite` `Pandas` `Power BI`
-
-Key activities:
-• Data collection, cleaning, and transformation
-• SQL-based exploratory data analysis (EDA)
-• Dashboard development and data visualization in Power BI
-• Performance analysis and comparison of character classes
-• Generation of insights from combat simulation data
-
-#### [deteccao-anomalias-transacoes](https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes)
-Credit card fraud detection project using the Isolation Forest unsupervised machine learning algorithm, with a focus on evaluation metrics suitable for highly imbalanced datasets (only 0.17% fraudulent transactions).<br>
-`Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
-
-Key activities: 
-• Exploratory analysis of extremely imbalanced data
-• Feature scaling with StandardScaler
-• Anomaly detection model training (Isolation Forest)
-• Evaluation using Recall and Precision instead of traditional accuracy
-
-#### [g1-pulse-analytics](https://github.com/lucasbusquetazevedo/g1-pulse-analytics)
-Analytical pipeline built on G1's public RSS feeds, simulating the full data cycle of a digital news product, from automated collection to an executive dashboard.<br>
-`Python` `BigQuery` `Looker Studio` `GitHub Actions` `SQL` `statsmodels`
-
-Key activities:
-• Automated editorial metadata collection via RSS using GitHub Actions (3x/day)
-• BigQuery ingestion and modeling with advanced SQL (window functions, RANK, CTEs)
-• Synthetic engagement layer generated with sector-calibrated statistical model
-• A/B headline test with z-test (p < 0.001) and executive dashboard in Looker Studio
-
-#### [Banco-de-Talentos](https://github.com/lucasbusquetazevedo/Banco-de-Talentos)
-REST API project for an intelligent recruitment platform featuring a candidate–job matching system. Layered architecture, JWT, Swagger/OpenAPI and PostgreSQL integration.<br>
-`Python` `Flask` `SQLAlchemy` `PostgreSQL` `JWT`
-
-Key activities:
-• Data extraction, cleaning, and preparation
-• Exploratory Data Analysis (EDA) using SQL and Python
-• Development of interactive dashboards in Power BI
-• Comparative analysis of class effectiveness and combat performance
-• Data-driven insight generation and result visualization
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+</div>
 
 ---
+
+# Featured Projects
+
+## ISP Market Intel
+
+> **AI-powered geospatial market intelligence platform for Internet Service Providers.**
+
+Estimate the **Total Addressable Market (TAM)** of broadband providers using satellite imagery, computer vision and official census data—eliminating the need for outdated or paid datasets.
+
+### Highlights
+
+- Satellite imagery analysis
+- Computer Vision powered by Google Gemini
+- Geospatial processing with GeoPandas
+- Interactive Streamlit dashboard
+- Real-time market share estimation
+- 🇧🇷 Official IBGE Census 2022 integration
+
+**Tech Stack**
+
+`Python` `GeoPandas` `Streamlit` `Gemini API` `Pandas`
+
+**Repository:**  
+https://github.com/lucasbusquetazevedo/isp-market-intel
+
+---
+
+## G1 Pulse Analytics
+
+> **End-to-end analytics pipeline simulating the workflow of a digital newsroom.**
+
+Built an automated pipeline that collects editorial metadata from G1 RSS feeds, stores it in BigQuery and delivers executive dashboards for content performance analysis.
+
+### Highlights
+
+- Automated ETL using GitHub Actions
+- BigQuery Data Warehouse
+- Executive dashboard in Looker Studio
+- SQL analytics using CTEs and Window Functions
+- A/B headline testing with statistical validation
+- Automatic data collection three times per day
+
+**Tech Stack**
+
+`Python` `SQL` `BigQuery` `Looker Studio` `GitHub Actions` `statsmodels`
+
+**Repository:**  
+https://github.com/lucasbusquetazevedo/g1-pulse-analytics
+
+---
+
+## Banco de Talentos
+
+> **REST API for an intelligent recruitment platform.**
+
+Back-end application designed around a layered architecture, supporting candidate registration, authentication and job matching through secure RESTful APIs.
+
+### Highlights
+
+- JWT Authentication
+- PostgreSQL database
+- REST API development
+- Swagger/OpenAPI documentation
+- Layered Architecture
+- SQLAlchemy ORM
+
+**Tech Stack**
+
+`Python` `Flask` `PostgreSQL` `SQLAlchemy` `JWT`
+
+**Repository:**  
+https://github.com/lucasbusquetazevedo/Banco-de-Talentos
+
+---
+
+## Fraud Detection using Machine Learning
+
+> **Credit card fraud detection on highly imbalanced datasets.**
+
+Machine Learning project focused on identifying fraudulent transactions using the Isolation Forest algorithm while emphasizing business-oriented evaluation metrics such as Recall and Precision.
+
+### Highlights
+
+- Fraud rate of only **0.17%**
+- Isolation Forest
+- Exploratory Data Analysis
+- Precision × Recall evaluation
+- Confusion Matrix interpretation
+- Feature scaling and preprocessing
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `Pandas` `Matplotlib`
+
+**Repository:**  
+https://github.com/lucasbusquetazevedo/deteccao-anomalias-transacoes
+
+---
+
+## DnD RPG Analytics
+
+> **Business Intelligence project built around RPG combat simulations.**
+
+Simulated thousands of Dungeons & Dragons combat scenarios and transformed the results into analytical dashboards to compare class performance across levels.
+
+### Highlights
+
+- Interactive Power BI dashboards
+- SQL analysis
+- Data cleaning with Python
+- Performance comparison
+- KPI creation
+- Storytelling with data
+
+**Tech Stack**
+
+`Python` `SQL` `SQLite` `Power BI`
+
+**Repository:**  
+https://github.com/lucasbusquetazevedo/DnD-RPG-Analytics
+
+---
+
+# Professional Experience
+
+## Back-end Developer
+
+**Intelligent Recruitment Platform**
+
+Currently contributing to the development of a recruitment platform by designing and implementing RESTful APIs, database structures and authentication mechanisms.
+
+### Main Responsibilities
+
+- Develop REST APIs using Python and Flask
+- Design relational database models with PostgreSQL
+- Implement JWT authentication and authorization
+- Produce API documentation using Swagger/OpenAPI
+- Collaborate on application architecture and feature development
+
+---
+
+## Data Analyst
+
+Professional experience in commercial analytics, Business Intelligence and performance reporting.
+
+### Main Responsibilities
+
+- Develop interactive dashboards for business monitoring
+- Analyze sales performance and commercial KPIs
+- Transform raw data into actionable business insights
+- Support decision-making through analytical reporting
+- Automate recurring analytical processes
+
+---
+
+# Education
+
+### Universidade Federal Fluminense (UFF)
+
+**Bachelor's Degree in Economics**
+
+Expected Graduation: *(add your expected graduation year here)*
+
+Relevant areas:
+
+- Statistics
+- Econometrics
+- Data Analysis
+- Quantitative Methods
+- Economics
+
+---
+
+# Currently Learning
+
+I'm currently expanding my knowledge in:
+
+- Cloud Data Platforms
+- Data Engineering
+- Machine Learning
+- Backend Architecture
+- Advanced SQL
+- Software Design Patterns
+
+---
+
+# Areas of Interest
+
+- Business Intelligence
+- Analytics Engineering
+- Machine Learning
+- Data Engineering
+- Python Development
+- REST APIs
+- Geospatial Analytics
+
+---
+
+# Let's Connect
+
+I'm always interested in discussing:
+
+- Data Analytics
+- Business Intelligence
+- Python
+- Backend Development
+- Machine Learning
+- New Opportunities
+
+---
+
+<div align="center">
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-busquet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-busquet)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasbusquetazevedo)
+
+⭐ Thanks for visiting my profile!
+
+</div>
