@@ -29,11 +29,7 @@ Currently contributing to a recruitment platform and studying Economics at UFF.
 ## ISP Market Intel
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucasbusquetazevedo/isp-market-intel/main/assets/marketintel1.png" width="900">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasbusquetazevedo/isp-market-intel/main/assets/marketintel2.png" width="900">
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQE6_mo-gXOZyA/feedshare-image-high-res/B4DZ6FwIP7JUAU-/0/1780360447296?e=1784764800&v=beta&t=2XsDD1ZxJrubRxyteaZ0yhpBW-DwJ_GiXI_CCNc2Zzw" width="900"> 
 </p>
 
 AI-powered geospatial intelligence platform that estimates the Total Addressable Market (TAM) for internet providers using satellite imagery and census data.
@@ -41,18 +37,6 @@ AI-powered geospatial intelligence platform that estimates the Total Addressable
 Transforms geospatial data into actionable insights for telecom market expansion.
 
 **Stack:** Python • GeoPandas • Streamlit • Gemini API • Pandas
-
----
-
-### Dashboard Overview
-
-<p align="center">
-  <img src="https://ibb.co/MyCgjzPw" width="900">  
-</p>
-
-<p align="center">
-  <img src="https://ibb.co/tpp8rr20" width="900">
-</p>
 
 ---
 
@@ -70,7 +54,7 @@ Built to analyze editorial performance and support data-driven content decisions
 
 **Key Focus:** Data Engineering • Analytics Engineering • Business Intelligence
 
-[Repository](https://github.com/lucasbusquetazevedo/g1-p
+[Repository](https://github.com/lucasbusquetazevedo/g1-pulse-analytics)
 
 ## Other Projects
 
