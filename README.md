@@ -38,6 +38,8 @@ Transforms geospatial data into actionable insights for telecom market expansion
 
 **Stack:** Python • GeoPandas • Streamlit • Gemini API • Pandas
 
+[Repository](https://github.com/lucasbusquetazevedo/isp-market-intel)
+
 ---
 
 ## G1 Pulse Analytics
@@ -51,8 +53,6 @@ End-to-end analytics pipeline simulating a digital newsroom workflow using autom
 Built to analyze editorial performance and support data-driven content decisions.
 
 **Stack:** Python • SQL • BigQuery • Looker Studio • GitHub Actions
-
-**Key Focus:** Data Engineering • Analytics Engineering • Business Intelligence
 
 [Repository](https://github.com/lucasbusquetazevedo/g1-pulse-analytics)
 
