@@ -29,7 +29,7 @@ Currently contributing to a recruitment platform and studying Economics at UFF.
 ## ISP Market Intel
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQE6_mo-gXOZyA/feedshare-image-high-res/B4DZ6FwIP7JUAU-/0/1780360447296?e=1784764800&v=beta&t=2XsDD1ZxJrubRxyteaZ0yhpBW-DwJ_GiXI_CCNc2Zzw" width="900"> 
+  <img src="https://raw.githubusercontent.com/lucasbusquetazevedo/isp-market-intel/main/assets/marketintel1.png" width="900"> 
 </p>
 
 AI-powered geospatial intelligence platform that estimates the Total Addressable Market (TAM) for internet providers using satellite imagery and census data.
